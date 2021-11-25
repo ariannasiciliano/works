@@ -19,15 +19,17 @@ border: none;
 outline:none;
 color:white;
 padding: 20px;
+margin-right:50px;
 margin-left: 50px;
-margin-right: 50px;
-width:88%;
 }
 
 .panel {
-  margin-bottom:30px;
   display: none;
   background-color:black;
+  margin-left: 23px;
+  margin-right: 23px;
+  margin-top: -23px;
+  margin-bottom: 50px;
 }
 
 h1{
