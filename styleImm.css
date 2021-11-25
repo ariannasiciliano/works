@@ -67,3 +67,11 @@ h2{
 #slider button:active{
     transform:scale(0.95);
 }
+
+@media (max-width: 490px){
+    h1{
+    font-size: 15px; 
+} 
+
+
+}
